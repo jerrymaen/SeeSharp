@@ -1,4 +1,11 @@
-//
+//Declare the variables below and give them appropriate values:
+//var1 tyyppiä short.
+//var2 tyyppiä byte.
+//var3 tyyppiä float.   
+//var4 tyyppiä char.
+//var5 tyyppiä boolean.
+//var6 tyyppiä ulong.
+//var7 tyyppiä decimal.
 
 using System;
 
