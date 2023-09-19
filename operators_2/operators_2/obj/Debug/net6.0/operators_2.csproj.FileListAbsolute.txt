@@ -1,0 +1,14 @@
+C:\SeeSharp\operators_2\operators_2\bin\Debug\net6.0\operators_2.exe
+C:\SeeSharp\operators_2\operators_2\bin\Debug\net6.0\operators_2.deps.json
+C:\SeeSharp\operators_2\operators_2\bin\Debug\net6.0\operators_2.runtimeconfig.json
+C:\SeeSharp\operators_2\operators_2\bin\Debug\net6.0\operators_2.dll
+C:\SeeSharp\operators_2\operators_2\bin\Debug\net6.0\operators_2.pdb
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.AssemblyInfoInputs.cache
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.AssemblyInfo.cs
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.csproj.CoreCompileInputs.cache
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.dll
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\refint\operators_2.dll
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.pdb
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\operators_2.genruntimeconfig.cache
+C:\SeeSharp\operators_2\operators_2\obj\Debug\net6.0\ref\operators_2.dll
