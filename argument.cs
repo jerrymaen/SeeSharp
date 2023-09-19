@@ -4,10 +4,10 @@ using System;
 
 class Argument
 {
-	
+
 	static void Main(string[] args)
 	{
-	
-	Console.WriteLine("Komentoriviargumentti oli: " + args[0]);
+
+		Console.WriteLine("Komentoriviargumentti oli: " + args[0]);
 	}
 }
