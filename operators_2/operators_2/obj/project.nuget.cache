@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z7KdVG0vBOXb0vKcD7OgTrgCO9cjFnhTSSP9cywFB3f4mb+fbpWFCtc+70Xvmpp/VCZdFEe2Bgc7P8/X+3v4Ug==",
+  "dgSpecHash": "pWInXJljWvUY6eQF0LKLyNPgdLtBOO1uiy6P4v82KK6B1O0wBJbSZFBUuLTlX0/9ScnjgPMkQFFp3hgfx6hhJw==",
   "success": true,
-  "projectFilePath": "C:\\SeeSharp\\operators_2\\operators_2\\operators_2.csproj",
+  "projectFilePath": "C:\\csharp\\operators_2\\operators_2\\operators_2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

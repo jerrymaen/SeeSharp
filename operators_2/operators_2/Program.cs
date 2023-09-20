@@ -12,9 +12,6 @@ class Program
         int y = 2;
         int z = 3;
         int b = 4;
-        string s = "A";
-
-
 
         if (((x >= y) && (y > z)) || ((x > y) && (s == "A")))
         {
