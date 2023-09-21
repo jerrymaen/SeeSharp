@@ -8,10 +8,10 @@ class Program
     {
 
 
-        int x = 1;
-        int y = 2;
+        int x = 5;
+        int y = 4;
         int z = 3;
-        int b = 4;
+        string s = "C";
 
         if (((x >= y) && (y > z)) || ((x > y) && (s == "A")))
         {
