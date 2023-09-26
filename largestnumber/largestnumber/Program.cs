@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace largestnumber
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main()
-        {
+        Console.Write("Syötä ensimmäinen numero:");
+        Console.ReadLine();
 
-        }
+        Console.WriteLine("Syötä toinen numero:");
+        Console.ReadLine();
     }
 }
