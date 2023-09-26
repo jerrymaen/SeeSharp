@@ -1,0 +1,7 @@
+C:\csharp\age\age\bin\Debug\age.exe.config
+C:\csharp\age\age\bin\Debug\age.exe
+C:\csharp\age\age\bin\Debug\age.pdb
+C:\csharp\age\age\obj\Debug\age.csproj.AssemblyReference.cache
+C:\csharp\age\age\obj\Debug\age.csproj.CoreCompileInputs.cache
+C:\csharp\age\age\obj\Debug\age.exe
+C:\csharp\age\age\obj\Debug\age.pdb
