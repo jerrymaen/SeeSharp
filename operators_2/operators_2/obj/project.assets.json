@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\csharp\\operators_2\\operators_2\\operators_2.csproj",
+      "projectUniqueName": "C:\\Users\\jerem\\Desktop\\SeeSharp\\operators_2\\operators_2\\operators_2.csproj",
       "projectName": "operators_2",
-      "projectPath": "C:\\csharp\\operators_2\\operators_2\\operators_2.csproj",
+      "projectPath": "C:\\Users\\jerem\\Desktop\\SeeSharp\\operators_2\\operators_2\\operators_2.csproj",
       "packagesPath": "C:\\Users\\jerem\\.nuget\\packages\\",
-      "outputPath": "C:\\csharp\\operators_2\\operators_2\\obj\\",
+      "outputPath": "C:\\Users\\jerem\\Desktop\\SeeSharp\\operators_2\\operators_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

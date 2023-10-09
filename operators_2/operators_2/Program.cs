@@ -7,13 +7,13 @@ class Program
     static void Main()
     {
 
-
         int x = 5;
-        int y = 4;
-        int z = 3;
+        int y = 3;
+        int z = 7;
         string s = "C";
 
-        if (((x >= y) && (y > z)) || ((x > y) && (s == "A")))
+
+        if (((x >= y) && (y < z)) || ((x > y) && (s == "A")))
         {
             if (s == "C")
             {
