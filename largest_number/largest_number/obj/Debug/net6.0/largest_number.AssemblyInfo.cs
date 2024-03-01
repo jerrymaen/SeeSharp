@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("largest_number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571ee1e1b3141dea5e5cf2ba567ae41c30f55d36")]
 [assembly: System.Reflection.AssemblyProductAttribute("largest_number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("largest_number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
