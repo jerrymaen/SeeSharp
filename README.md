@@ -1,3 +1,5 @@
+![Alt](https://repobeats.axiom.co/api/embed/dc8e7e94b0b7d9f8926435dd94738465eb8c5bf7.svg "Repobeats analytics image")
+
 # SeeSharp - Study Repository
 
 This repository is dedicated to my academic studies, and it contains assignments and projects related to my coursework. 
