@@ -1,0 +1,15 @@
+C:\SeeSharp\quadrant\quadrant\bin\Debug\net8.0\quadrant.exe
+C:\SeeSharp\quadrant\quadrant\bin\Debug\net8.0\quadrant.deps.json
+C:\SeeSharp\quadrant\quadrant\bin\Debug\net8.0\quadrant.runtimeconfig.json
+C:\SeeSharp\quadrant\quadrant\bin\Debug\net8.0\quadrant.dll
+C:\SeeSharp\quadrant\quadrant\bin\Debug\net8.0\quadrant.pdb
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.AssemblyInfoInputs.cache
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.AssemblyInfo.cs
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.csproj.CoreCompileInputs.cache
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.sourcelink.json
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.dll
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\refint\quadrant.dll
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.pdb
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\quadrant.genruntimeconfig.cache
+C:\SeeSharp\quadrant\quadrant\obj\Debug\net8.0\ref\quadrant.dll

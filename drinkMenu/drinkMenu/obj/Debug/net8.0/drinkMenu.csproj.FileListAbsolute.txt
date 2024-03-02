@@ -1,0 +1,15 @@
+C:\SeeSharp\drinkMenu\drinkMenu\bin\Debug\net8.0\drinkMenu.exe
+C:\SeeSharp\drinkMenu\drinkMenu\bin\Debug\net8.0\drinkMenu.deps.json
+C:\SeeSharp\drinkMenu\drinkMenu\bin\Debug\net8.0\drinkMenu.runtimeconfig.json
+C:\SeeSharp\drinkMenu\drinkMenu\bin\Debug\net8.0\drinkMenu.dll
+C:\SeeSharp\drinkMenu\drinkMenu\bin\Debug\net8.0\drinkMenu.pdb
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.AssemblyInfoInputs.cache
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.AssemblyInfo.cs
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.csproj.CoreCompileInputs.cache
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.sourcelink.json
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.dll
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\refint\drinkMenu.dll
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.pdb
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\drinkMenu.genruntimeconfig.cache
+C:\SeeSharp\drinkMenu\drinkMenu\obj\Debug\net8.0\ref\drinkMenu.dll
