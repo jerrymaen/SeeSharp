@@ -1,0 +1,15 @@
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.GeneratedMSBuildEditorConfig.editorconfig
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.AssemblyInfoInputs.cache
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.AssemblyInfo.cs
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.csproj.CoreCompileInputs.cache
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.sourcelink.json
+C:\SeeSharp\arrayPrinting\arrayPrinting\bin\Debug\net8.0\arrayPrinting.exe
+C:\SeeSharp\arrayPrinting\arrayPrinting\bin\Debug\net8.0\arrayPrinting.deps.json
+C:\SeeSharp\arrayPrinting\arrayPrinting\bin\Debug\net8.0\arrayPrinting.runtimeconfig.json
+C:\SeeSharp\arrayPrinting\arrayPrinting\bin\Debug\net8.0\arrayPrinting.dll
+C:\SeeSharp\arrayPrinting\arrayPrinting\bin\Debug\net8.0\arrayPrinting.pdb
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.dll
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\refint\arrayPrinting.dll
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.pdb
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\arrayPrinting.genruntimeconfig.cache
+C:\SeeSharp\arrayPrinting\arrayPrinting\obj\Debug\net8.0\ref\arrayPrinting.dll

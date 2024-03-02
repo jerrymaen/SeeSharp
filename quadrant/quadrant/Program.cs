@@ -6,12 +6,12 @@ namespace quadrant
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Löydä xy-akseleilla olevan pisteen kvadrantti: ");
+            Console.Write("Löydä xy-akseleilla olevan pisteen kvadrantti: \n");
 
-            Console.WriteLine("X-koordinaatti: ");
+            Console.Write("X-koordinaatti: ");
             double x = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Y-koordinaatti: ");
+            Console.Write("Y-koordinaatti: ");
             double y = double.Parse(Console.ReadLine());
 
             if (x == 0 && y == 0)

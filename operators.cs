@@ -10,7 +10,7 @@ class Program
         int b = 2;
         int c = 0;
 
-        if ( (a != b) && (a < b) ) {
+        if ((a != b) && (a < b)) {
             if (a > c) {
                 Console.WriteLine("Onnistui!");
             }

@@ -4,12 +4,12 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Syötä ikäsi, ole hyvä: ");
-        int ikä = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Enter your age: ");
+        int age = Convert.ToInt32(Console.ReadLine());
 
-        if (ikä >= 18)
+        if (age >= 18)
         {
-            Console.WriteLine("Voit äänestää!");
+            Console.WriteLine("You can vote!");
         }
         Console.ReadLine();
     }

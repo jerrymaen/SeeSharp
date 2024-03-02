@@ -6,17 +6,13 @@ class Program
 {
     static void Main()
     {
-
-
         int x = 1;
         int y = 2;
         int z = 3;
         int b = 4;
         string s = "A";               
 
-
-
-        if ( ((x >= y) && (y > z)) || ((x > y) && (s == "A")) )
+        if (((x >= y) && (y > z)) || ((x > y) && (s == "A")))
         {
             if (s == "C")
             {
