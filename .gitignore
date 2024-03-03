@@ -13,6 +13,6 @@
 *.sln
 *.vspscc
 *.vssscc
-*/bin/
-*/obj/
+**/bin/
+**/obj/
 node_modules/
