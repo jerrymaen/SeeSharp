@@ -1,21 +1,20 @@
 ﻿using System;
 
-namespace pyramid
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
+        Console.Write("Anna pyramidin korkeus: ");
+        string input = Console.ReadLine();
+        int n;
+        if (int.TryParse(input, out n))
         {
-            Console.WriteLine("Anna pyramidin korkeus:");
-            int n = int.Parse(Console.ReadLine());
-
             for (int i = 1; i <= n; i++)
             {
                 for (int j = 1; j <= i; j++)
                 {
                     Console.Write(j);
                 }
-
                 Console.WriteLine();
             }
         }
