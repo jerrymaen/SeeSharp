@@ -1,6 +1,6 @@
 ![Alt](https://repobeats.axiom.co/api/embed/dc8e7e94b0b7d9f8926435dd94738465eb8c5bf7.svg "Repobeats analytics image")
 
-# SeeSharp - Study Repository
+# C# - Study Repository
 
 This repository is dedicated to my academic studies, and it contains assignments and projects related to my coursework. 
 
@@ -20,6 +20,4 @@ Feel free to browse through the contents of this repository, but please keep in 
 
 ## Contributions
 
-If you have any feedback, suggestions, or improvements related to the content, please don't hesitate to get in touch. I appreciate your input and collaboration!
-
-(:
+If you have any feedback, suggestions, or improvements related to the content, please don't hesitate to get in touch!
